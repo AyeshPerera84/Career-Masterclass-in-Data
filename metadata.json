@@ -1,0 +1,7 @@
+{
+  "name": "DataAnalyst Pro: Zero to Hero ",
+  "description": "An interactive, gamified learning platform for aspiring data analysts, based on the COVID-19 SQL Data Exploration masterclass.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
